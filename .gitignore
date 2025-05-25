@@ -13,10 +13,5 @@ __pycache__/
 .DS_Store
 Thumbs.db
 
-# Fitxers de sortida
-*.pdf
-*.png
-*.jpg
-
 # Fitxers de configuració d'editor
 .vscode/
